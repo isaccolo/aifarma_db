@@ -1,5 +1,5 @@
 {
   "version": "2026.09.01",
-  "db_gz_url": "https://github.com/isaccolo/aifarma/releases/download/db_release/db_farmaci.db.gz",
+  "db_gz_url": "https://github.com/isaccolo/aifarma_db/releases/download/20260901/db_farmaci.db.gz",
   "changelog": "Aggiornamento dati AIFA Settembre 2026"
 }
